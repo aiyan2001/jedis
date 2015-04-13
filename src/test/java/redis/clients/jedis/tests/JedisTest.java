@@ -18,7 +18,7 @@ import redis.clients.jedis.exceptions.JedisDataException;
 import redis.clients.jedis.exceptions.JedisException;
 import redis.clients.jedis.tests.commands.JedisCommandTestBase;
 import redis.clients.util.SafeEncoder;
-//aiyan 2015-04-12
+//aiyan 2015-04-12_1
 public class JedisTest extends JedisCommandTestBase {
   @Test
   public void useWithoutConnecting() {
