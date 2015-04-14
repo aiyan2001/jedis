@@ -9,7 +9,7 @@ import org.junit.Test;
 import redis.clients.jedis.Connection;
 import redis.clients.jedis.exceptions.JedisConnectionException;
 
-//aiyan--1
+//aiyan--1--2
 public class ConnectionTest extends Assert {
   private Connection client;
 
