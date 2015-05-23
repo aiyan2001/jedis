@@ -24,6 +24,7 @@ import redis.clients.util.SafeEncoder;
 
 public class BinaryClient extends Connection {
   public enum LIST_POSITION {
+	  
     BEFORE, AFTER;
     public final byte[] raw;
 
